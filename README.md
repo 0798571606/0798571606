@@ -1,9 +1,13 @@
-- 👋 Hi, I’m hamidullah hamidi
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on teamworking projects and remote
+# سلام، من [حمیدالله] (https://github.com/0798571606) هستم!
 
-<!---
-0798571606/0798571606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## درباره من:
+- 🎓 دانش‌آموخته مهندسی کامپیوتر.
+- 🖥️ علاقه‌مند به توسعه وب و برنامه‌نویسی موبایل.
+- 🌱 در حال یادگیری و توسعه مهارت‌های جدید.
+
+## پروژهای من:
+- 📚 [پروژه 1](https://github.com/0798571606/UsePopcorn-movie-app)
+- 🧰 [پروژه 2](https://github.com/0798571606/Nice-calculator)
+
+## تماس با من:
+- 📧 [hamidullahh754@example.com]
